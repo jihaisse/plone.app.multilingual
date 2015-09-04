@@ -4,6 +4,8 @@ Changelog
 2.0.1 (unreleased)
 ------------------
 
+- Fixed compatibility issue with archetypes contents: wrong URL were generated.
+  [keul]
 - Move @@multilingual-selector registration from PloneRoot to Navigation root
   This allows to hide language folders in nginx and to use different domains.
   [do3cc]
